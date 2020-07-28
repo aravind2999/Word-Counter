@@ -14,4 +14,4 @@ def count_words(path):
             print(word[0], " ", word[1] )
 
 if __name__ = '__main__':
-    count_words("C:\Users\ARAVIND REDDY\Documents\New Text Document.txt")
+    count_words("Text Document.txt")
